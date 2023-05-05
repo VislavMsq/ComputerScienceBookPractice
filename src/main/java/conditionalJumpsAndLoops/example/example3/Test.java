@@ -11,4 +11,7 @@ public class Test {
             count++;
         }
     }
+    public static void example3 (){
+
+    }
 }
